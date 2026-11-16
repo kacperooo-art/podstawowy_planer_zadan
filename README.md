@@ -1,1 +1,1 @@
-# strona3 egz
+# podstawowy planer zadań
